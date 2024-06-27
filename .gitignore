@@ -1,0 +1,4 @@
+# Bypass any .dll files:
+*.dll
+
+.settings/
